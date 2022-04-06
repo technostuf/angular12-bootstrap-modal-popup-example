@@ -1,3 +1,7 @@
+
+## Documentation 
+https://technostuf.com/angular-12-modal-popup-example-with-bootstrap-4/
+
 # AngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
